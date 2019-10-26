@@ -1,0 +1,15 @@
+body {
+    font-family: 'Dosis', sans-serif;
+    width: 100%;
+}
+h1 {
+    font-size: 50px;
+    margin: 50px;
+}
+h2 {
+    margin-left: 50px;
+}
+p {
+    margin-left: 50px;
+    line-height: 1.5;
+}
