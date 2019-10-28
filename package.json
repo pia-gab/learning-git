@@ -1,0 +1,26 @@
+{
+  "name": "learning-git-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nasz-skrypt": "nu-html-checker index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pia-gab/learning-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pia-gab/learning-git/issues"
+  },
+  "homepage": "https://github.com/pia-gab/learning-git#readme",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.7",
+    "nu-html-checker": "^0.1.0"
+  }
+}
